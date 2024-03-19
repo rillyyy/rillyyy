@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/normalize.css-E3695F?style=flat&logo=normalize.css&logoColor=fff" />
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=fff" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=fff" />
-<img src="https://img.shields.io/badge/ReadMe-#018EF5?style=flat&logo=ReadMe&logoColor=fff" />
+<img src="https://img.shields.io/badge/ReadMe-018EF5?style=flat&logo=ReadMe&logoColor=fff" />
