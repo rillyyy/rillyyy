@@ -1,4 +1,5 @@
-<h1>welcome, my GitHub</h1>
+<h1>😊 Welcome, my GitHub</h1>
+I'm yeaji from southkorea
 
 <h2>STACKS</h2>
 <div style={display: flex;}>
@@ -16,4 +17,12 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=fff" />
 </div>
 
-
+<h3>latest project</h3>
+<table>
+  <tr>
+    <td>project</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
