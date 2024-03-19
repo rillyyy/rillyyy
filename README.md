@@ -21,18 +21,14 @@
 <table>
   <tr>
     <td>🗂 PROJECTS</td>
-    <td>STACKS</td>
   </tr>
   <tr>
     <td>1. CLEAN UP</td>
-    <td></td>
   </tr>
   <tr>
     <td>2. HOTELDOG(USER)</td>
-    <td></td>
   </tr>
   <tr>
     <td>3. HOTELDOG(ADMIN)</td>
-    <td></td>
   </tr>
 </table>
