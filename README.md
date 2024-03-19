@@ -6,3 +6,4 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=fff" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=fff" />
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=fff" />
+<img src="https://img.shields.io/badge/normalizedotcss-E3695F?style=flat&logo=normalizedotcss&logoColor=fff" />
