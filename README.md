@@ -1,5 +1,5 @@
 <h1>😊 Welcome, my GitHub</h1>
-I'm yeaji from southkorea
+👩‍💻 I'm yeaji, FrontEnd developer from southkorea
 
 <h2>STACKS</h2>
 <div style={display: flex;}>
@@ -17,10 +17,10 @@ I'm yeaji from southkorea
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=fff" />
 </div>
 
-<h3>latest project</h3>
+<h3>latest project with spring (BE) </h3>
 <table>
   <tr>
-    <td>PROJECTS</td>
+    <td>🗂 PROJECTS</td>
     <td>STACKS</td>
   </tr>
   <tr>
