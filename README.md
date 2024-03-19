@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/TEXT-COLOR?style=flat&logo=GitHub&logoColor=181717" />
+<img src="https://img.shields.io/badge/GitHub-COLOR?style=flat&logo=GitHub&logoColor=181717" />
