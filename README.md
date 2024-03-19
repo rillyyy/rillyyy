@@ -10,3 +10,5 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=fff" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=fff" />
 <img src="https://img.shields.io/badge/ReadMe-018EF5?style=flat&logo=ReadMe&logoColor=fff" />
+<img src="https://img.shields.io/badge/prettier-F7B93E?style=flat&logo=prettier&logoColor=fff" />
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=fff" />
