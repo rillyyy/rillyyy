@@ -1,4 +1,4 @@
-
+<h3>협업을 통한 성장과 미래를 향한 개발자</h3>
 
 <h2>STACKS</h2>
 <div style={display: flex;}>
