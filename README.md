@@ -12,3 +12,4 @@
 <img src="https://img.shields.io/badge/ReadMe-018EF5?style=flat&logo=ReadMe&logoColor=fff" />
 <img src="https://img.shields.io/badge/prettier-F7B93E?style=flat&logo=prettier&logoColor=fff" />
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=fff" />
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=fff" />
